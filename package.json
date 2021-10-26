@@ -1,0 +1,25 @@
+{
+  "name": "but-what-does-chalie-says",
+  "version": "1.2.0",
+  "description": "But what does chalie says ? 🦄🍌",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johngtrs/what-does-chalie-says.git"
+  },
+  "keywords": [],
+  "author": "Johngtrs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Johngtrs/what-does-chalie-says/issues"
+  },
+  "homepage": "https://github.com/Johngtrs/what-does-chalie-says#readme"
+}
